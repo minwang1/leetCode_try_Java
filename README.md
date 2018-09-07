@@ -1,1 +1,1 @@
-# this is a recode of my leetCode test.
+# this is a recod of my leetCode test.

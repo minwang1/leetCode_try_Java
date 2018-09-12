@@ -36,8 +36,7 @@ public class Easy_136_SingleNumber {
 	    for(int i=0;i!=len;i++)
 	        ans ^= nums[i];
 	    
-	    return ans;
-	    
+	    return ans;	    
 	}
 	
 	
